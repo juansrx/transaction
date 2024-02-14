@@ -113,7 +113,7 @@ try {
 }
 ```
 
-The operation exception removes a lot of boiler plate code caused by the different
+The operation exception removes a lot of boilerplate code caused by the different
 [exception formatters](#formatting-operations-and-exceptions).
 
 See [a working example](examples/operation-handler) by running:

@@ -17,8 +17,8 @@
     "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
-        "php": "^7.2",
-        "ext-SPL": "^7.2"
+        "php": "^8.0",
+        "ext-SPL": "^8.0"
     },
     "require-dev": {
         "mediact/testing-suite": "@stable",
